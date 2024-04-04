@@ -1,5 +1,9 @@
 # React + Vite
 
+This is a background changer project in which your click the button for example click red button 
+and your backgraound becomes red you choose black button your background becomes black
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
